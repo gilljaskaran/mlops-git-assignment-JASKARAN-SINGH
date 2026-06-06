@@ -52,3 +52,11 @@ This repository demonstrates Git branching, pull requests, merge conflict resolu
 
 \- .gitignore
 
+
+
+\## Student Information
+
+
+
+Name: Jaskaran Singh
+
