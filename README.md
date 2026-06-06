@@ -1,12 +1,10 @@
-\## Course Information
+\## Student Information
 
 
 
-Course: MAI201 MLOps
+Name: Jaskaran Singh
 
 
-
-Date: June 2026
 
 \# MLOps Git Assignment
 
