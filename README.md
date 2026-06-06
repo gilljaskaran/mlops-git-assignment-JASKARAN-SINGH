@@ -32,3 +32,15 @@ This repository demonstrates Git branching, pull requests, merge conflict resolu
 
 3\. Start working on the assignment
 
+
+
+\## Repository Structure
+
+
+
+\- README.md
+
+\- LICENSE
+
+\- .gitignore
+
