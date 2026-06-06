@@ -1,3 +1,13 @@
+\## Course Information
+
+
+
+Course: MAI201 MLOps
+
+
+
+Date: June 2026
+
 \# MLOps Git Assignment
 
 
@@ -43,4 +53,12 @@ This repository demonstrates Git branching, pull requests, merge conflict resolu
 \- LICENSE
 
 \- .gitignore
+
+
+
+\## Student Information
+
+
+
+Name: Jaskaran Singh
 
