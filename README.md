@@ -1,3 +1,11 @@
+\## Student Information
+
+
+
+Name: Jaskaran Singh
+
+
+
 \# MLOps Git Assignment
 
 
