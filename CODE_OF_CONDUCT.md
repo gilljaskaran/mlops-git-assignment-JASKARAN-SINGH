@@ -44,3 +44,11 @@ Examples of unacceptable behavior include:
 
 Instances of abusive behavior may be reported to the repository owner.
 
+
+
+\## Contact
+
+
+
+For questions regarding this code of conduct, contact the repository owner.
+
