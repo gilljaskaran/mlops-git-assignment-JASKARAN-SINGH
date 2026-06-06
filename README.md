@@ -6,7 +6,7 @@ Course: MAI201 MLOps
 
 
 
-Date: June 2026
+Date: 4 June 2026
 
 \# MLOps Git Assignment
 
